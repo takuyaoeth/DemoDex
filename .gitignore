@@ -1,0 +1,14 @@
+coverage
+coverage.json
+typechain
+
+.env
+artifacts
+node_modules
+cache
+.firebaserc
+build
+
+____testnetwork
+.secret
+truffle-config.js
